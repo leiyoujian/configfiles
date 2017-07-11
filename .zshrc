@@ -83,6 +83,9 @@ alias gc="git commit -m"
 alias gco="git checkout"
 alias gl="git log"
 
+alias odev="~/.tmux/dev.sh"
+alias kdev="tmux kill-session -t develop"
+
 alias tmuxa="tmux attach"
 alias tmuxk="tmux kill-session"
 
